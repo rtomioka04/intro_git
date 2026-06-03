@@ -1,2 +1,4 @@
 はじめましてGit
 よろしくね
+・git add
+・git commit
